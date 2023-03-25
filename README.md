@@ -10,6 +10,9 @@ Also ❤️ to solve problems using C++
 
 ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg)
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c++,ts)](https://skillicons.dev)
+
 https://github-readme-activity-graph.cyclic.app/graph?username={mayhim182}&theme={github}
 
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mayhim182}&theme={github}
