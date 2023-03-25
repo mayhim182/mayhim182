@@ -11,7 +11,7 @@ Also ❤️ to solve problems using C++
 ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c++,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,ts,js,dart,html,css,flutter)](https://skillicons.dev)
 
 https://github-readme-activity-graph.cyclic.app/graph?username={mayhim182}&theme={github}
 
