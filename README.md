@@ -3,7 +3,7 @@ Link to my previous github account https://github.com/may182
 <!-- https://cp-logo.vercel.app/leetcode/<mayank182> -->
 <!-- https://cp-logo.vercel.app/gfg/<mayank182> -->
 
-[![Badge](https://cp-logo.vercel.app/codechef/may182)]
+[![Badge](https://cp-logo.vercel.app/leetcode/mayank182)]
 
 Namaste 🙏,
 
