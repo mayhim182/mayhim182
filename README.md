@@ -1,5 +1,8 @@
 Link to my previous github account https://github.com/may182
 
+https://cp-logo.vercel.app/leetcode/<mayank182>
+https://cp-logo.vercel.app/gfg/<mayank182>
+
 Namaste 🙏,
 
 Building something 👌using flutter,
