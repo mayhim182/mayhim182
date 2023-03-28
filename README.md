@@ -23,5 +23,5 @@ Also ❤️ to solve problems using C++
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mayhim182}&theme={github} -->
 
 
-<!-- [![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=mayhim182)](https://github.com/mayhim182) -->
+[![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=mayhim182)](https://github.com/mayhim182)
 <!-- [![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=may182)](https://github.com/may182) -->
