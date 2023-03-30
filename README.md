@@ -15,7 +15,7 @@ Also ❤️ to solve problems using C++
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 
-[![Mayank's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<mayankdinesh1>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,dart,flutter,js,html,css,bootstrap,spring,angular,postgres,mysql,mongodb,firebase)](https://skillicons.dev)
