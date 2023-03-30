@@ -13,7 +13,7 @@ Also have experience in fullstack web development using angular, SpringBoot
 
 Also ❤️ to solve problems using C++
 
-![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,dart,flutter,js,html,css,bootstrap,spring,angular,postgres,mysql,mongodb,firebase)](https://skillicons.dev)
