@@ -11,7 +11,7 @@ Building something 👌using flutter,
 
 Also have experience in fullstack web development using angular, SpringBoot
 
-Also ❤️ to solve programming problems
+❤️'s to solve programming problems
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 
