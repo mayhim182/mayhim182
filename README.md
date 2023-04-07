@@ -27,5 +27,5 @@ also have experience in fullstack web development using angular, SpringBoot
 
 
 
-[![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=mayhim182)](https://github.com/mayhim182)
+<!-- [![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=mayhim182)](https://github.com/mayhim182) -->
 <!-- [![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=may182)](https://github.com/may182) -->
