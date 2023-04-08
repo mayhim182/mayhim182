@@ -13,7 +13,7 @@ also have experience in fullstack web development using angular, SpringBoot
 
 ❤️'s to solve programming problems
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg)
 
 [![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://auth.geeksforgeeks.org/user/mayankdinesh1/)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/)
