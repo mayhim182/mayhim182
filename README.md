@@ -16,7 +16,7 @@ Have experience in fullstack web development using angular, SpringBoot
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 
 [![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://auth.geeksforgeeks.org/user/mayankdinesh1/)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/) -->
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,dart,flutter,js,html,css,bootstrap,spring,angular,postgres,mysql,mongodb,firebase)](https://skillicons.dev)
