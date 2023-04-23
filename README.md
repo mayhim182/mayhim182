@@ -7,7 +7,7 @@ Link to my previous github account https://github.com/may182 [🎶]
 
 Namaste 🙏,
 
-Building something 👌using flutter,
+Building something 👌using flutter or angular
 
 Have experience in fullstack web development using angular, SpringBoot
 
