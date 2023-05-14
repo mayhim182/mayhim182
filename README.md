@@ -4,7 +4,7 @@ Link to my previous github account https://github.com/may182 [🎶]
 <!-- https://cp-logo.vercel.app/gfg/<mayank182> -->
 
 <!-- [![Badge](https://cp-logo.vercel.app/interviewbit/mayank182)] -->
-<p align="center">
+<div align="center">
 Namaste 🙏,
 
 Building something 👌using flutter or angular
@@ -14,17 +14,17 @@ Have experience in fullstack web development using angular, SpringBoot
 ❤️'s to solve programming problems
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
-
+  <div align="center">
 [![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://auth.geeksforgeeks.org/user/mayankdinesh1/)
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/) -->
-
+  </div>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,dart,flutter,js,html,css,bootstrap,spring,angular,postgres,mysql,mongodb,firebase)](https://skillicons.dev)
 
 <!-- https://github-readme-activity-graph.cyclic.app/graph?username={mayhim182}&theme={github} -->
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mayhim182}&theme={github} -->
-</p>
+</div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayhim182&theme=dracula&count_private=true&show_icons=true" alt="Mayank Patel" /></p>
 
 
