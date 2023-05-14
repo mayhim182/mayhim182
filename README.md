@@ -17,13 +17,13 @@ Have experience in fullstack web development using angular, SpringBoot
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/) -->
  
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,java,dart,flutter,js,html,css,bootstrap,spring,angular,postgres,mysql,mongodb,firebase)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,dart,flutter,js,html,css,bootstrap,spring,angular,postgres,mysql,mongodb,firebase)](https://skillicons.dev)
 
 <!-- https://github-readme-activity-graph.cyclic.app/graph?username={mayhim182}&theme={github} -->
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mayhim182}&theme={github} -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayhim182&theme=dracula&count_private=true&show_icons=true" alt="Mayank Patel" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayhim182&theme=dracula&count_private=true&show_icons=true" alt="Mayank Patel" /> -->
 
 
 <!-- [![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=mayhim182)](https://github.com/mayhim182) -->
