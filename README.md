@@ -23,7 +23,7 @@ Have experience in fullstack web development using angular, SpringBoot
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mayhim182}&theme={github} -->
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayhim182&theme=dracula&count_private=true&show_icons=true" alt="Mayank Patel" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayhim182&theme=dracula&count_private=true&show_icons=true" alt="Mayank Patel" />
 
 
 <!-- [![Mayank’s github stats](https://github-readme-stats.vercel.app/api?username=mayhim182)](https://github.com/mayhim182) -->
