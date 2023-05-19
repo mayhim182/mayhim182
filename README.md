@@ -8,7 +8,7 @@ Namaste 🙏,
 
 Building something 👌using flutter or angular
 
-Have experience in fullstack web development using angular, SpringBoot
+Have experience in fullstack web development using angular, SpringBoot, postgreSQL and MEAN stack
 
 ❤️'s to solve programming problems
 
