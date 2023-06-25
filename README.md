@@ -16,6 +16,7 @@ Have experience in fullstack web development using angular, SpringBoot, postgreS
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 [![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://auth.geeksforgeeks.org/user/mayankdinesh1/)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mayhim182&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/) -->
  
 
