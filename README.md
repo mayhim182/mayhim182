@@ -43,4 +43,4 @@ and knows how to be MEAN😎
     </p>  
   </div>
 
-  https://www.linkedin.com/in/mayank-patel-035389154/
+  
