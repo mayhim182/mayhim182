@@ -6,17 +6,6 @@ Link to my previous github account https://github.com/may182 [🎶]
 <!-- https://cp-logo.vercel.app/gfg/<mayank182> -->
 
 <!-- [![Badge](https://cp-logo.vercel.app/interviewbit/mayank182)] -->
-Namaste 🙏,
-
-[The next big thing ???]
-
-Building something 👌using flutter or angular
-
-Fullstack web development using angular, SpringBoot, postgreSQL,
-and knows how to be MEAN😎
-
-❤️'s to solve programming problems
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 [![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://auth.geeksforgeeks.org/user/mayankdinesh1/)
  [![GitHub Streak](https://streak-stats.demolab.com?user=mayhim182&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
