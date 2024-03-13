@@ -8,7 +8,6 @@ Link to my previous github account https://github.com/may182 [🎶]
 <!-- [![Badge](https://cp-logo.vercel.app/interviewbit/mayank182)] -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{mayhim182}/count.svg) -->
 [![Mayank](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=mayankdinesh1)](https://auth.geeksforgeeks.org/user/mayankdinesh1/)
- [![GitHub Streak](https://streak-stats.demolab.com?user=mayhim182&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayhim182&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/mayank182)](https://leetcode.com/mayank182/) -->
  
